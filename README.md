@@ -7,8 +7,8 @@ Rust
 
 ## About me
 - 📄 10+ Years of programming
-- 🪪 Freelancer 2 years
-- ✉️ email: None for now
+- 🪪 Freelancer 3 years
+- ✉️ Email: inbox@rosethedev.com
 
 ## ⌨️ Technologies & Statistics
 

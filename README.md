@@ -1,8 +1,9 @@
 <div align="justify">
   My name is Rose.  My main expertise is backend for databases, networking, etc.  The most I have worked with is databases and apis for discord bots.
+  I typically work in Rust and C#, and I loathe python with all my being (I still use it when needed).
 
-<h4>📚 Learning</h4>
-Rust
+  <h4>📚 Learning</h4>
+  Too much to list, mainly Rust and Nix related stuff.
 </div>
 
 ## About me

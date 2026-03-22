@@ -9,7 +9,7 @@
 ## About me
 - 📄 10+ Years of programming
 - 🪪 Freelancer 3 years
-- ✉️ Email: inbox@rosethedev.com
+- ✉️ Email: rose@rosethedev.com
 
 ## ⌨️ Technologies & Statistics
 

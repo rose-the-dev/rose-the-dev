@@ -4,6 +4,8 @@
 
   <h4>📚 Learning</h4>
   Too much to list, mainly Rust and Nix related stuff.
+
+  I don't talk much, but I might reply on [Matrix](https://matrix.to/#/@rosethedev:matrix.org)
 </div>
 
 ## About me

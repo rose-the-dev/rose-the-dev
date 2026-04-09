@@ -4,7 +4,7 @@
     I typically work in Rust and C#, and I loathe python with all my being (I still use it when needed).
   </p>
   <p>
-    I don't talk much, but I might reply on [Matrix](https://matrix.to/#/@rosethedev:matrix.org)
+    I don't talk much, but I might reply on <a href="https://matrix.to/#/@rosethedev:matrix.org">Matrix</a>.
   </p>
 
   <h4>📚 Learning</h4>

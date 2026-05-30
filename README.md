@@ -7,6 +7,11 @@
     <b>WELL WHAT DO YOU KNOW????</b> microsoft are enshittifying github to such a degree it is actually making people less productive<br/>
     I'm on gitlab now on <a href="https://gitlab.com/rose_the_dev">this account</a>.
   </p>
+  <h3>Do not rely on the information from this account.</h3>
+  <p>
+    I do not use this profile for my personal projects anymore, or my group projects.  For reliable information about my activities as a programmer,<br/>
+    see my gitlab (linked above), and <a href="https://www.rosethedev.com/contact">here</a> for contact info and etiquette for contacting me.
+  </p>
   <p>
     I don't talk much, but I might reply on <a href="https://matrix.to/#/@rosethedev:matrix.org">Matrix</a>.<br/>
     <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/230074bb-3996-446e-899f-9b44043f0412" />
